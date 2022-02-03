@@ -1,3 +1,5 @@
+Forked from https://github.com/vkphillia/opengl-cpp-template beccause I wanted it as a template rather than a repo.
+
 # OpenGL®-Starter
 OpenGL®-Starter is a template for your upcoming OpenGL Projects which has been compiled to run the most basic Hello World OpenGL Program from  [LearnOpenGL.com](https://learnopengl.com/).![OpenGL Logo](https://www.khronos.org/assets/images/api_logos/opengl.svg)
 
